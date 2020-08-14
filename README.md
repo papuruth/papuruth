@@ -8,7 +8,7 @@
  - 🔭 I’m currently working on a React Project .
  - 👯 I’m looking to collaborate on open source projects.
  - 🤔 I’m looking for help with **Django**
- - 💬 Ask me about ...
+ - 💬 Ask me about anything.
  - 👨‍💻Let's Learn and grow<br />
  - ⚡ Fun fact: I love :<br/>
  - 📫 **Connect with me here**:<br />
