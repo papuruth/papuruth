@@ -44,6 +44,10 @@
  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg alt=vs-code width="50" height="50"/>
  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg alt=atom width="50" height="50"/>
  </p>
+<br/>
 
+**Checkout my Github Stats**
 
-[![Akanksha Raghav's github stats](https://github-readme-stats.vercel.app/api?username=papuruth)](https://github.com/papuruth/github-readme-stats)
+[![Papu Kumar's github stats](https://github-readme-stats.vercel.app/api?username=papuruth&count_private=true&show_icons=true&icon_color=74b510&theme=radical)](https://github.com/papuruth/github-readme-stats)
+
+[![Papu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papuruth&theme=dark)](https://github.com/papuruth/github-readme-stats)
