@@ -1,14 +1,18 @@
 
-### Hi there, I'm Papu Kumar - aka Rex 👋
-<img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
-![](https://komarev.com/ghpvc/?username=papuruth&color=blueviolet) 
+### Hi there, I'm Papu Kumar - aka ReX 👋  
+#### I'm a Fulltime React Dev
+<img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150"> 
+“Everything is just an illusion, but illusions are beautiful.” – **ReX** 
+<br />
 
-“Everything is just an illusion, but illusions are beautiful.” – **ReX** <br />
-👨‍💻Let's Learn and grow<br />
-⚡ Fun fact: I love cooking :smile:
-📫Connect with me here:<br />
- <br />
- <p>
+ - 🔭 I’m currently working on a React Project .
+ - 👯 I’m looking to collaborate on open source projects.
+ - 🤔 I’m looking for help with **Django**
+ - 💬 Ask me about ...
+ - 👨‍💻Let's Learn and grow<br />
+ - ⚡ Fun fact: I love :<br/>
+ - 📫 **Connect with me here**:<br />
+ <p align="center">
   <a href="https://www.linkedin.com/in/papuruth/">
     <img src="https://img.shields.io/badge/Papu-Kumar-386938188?style=flat&logo=linkedin">
   </a> &nbsp; 
@@ -18,9 +22,12 @@
  <a href="mailto:papu.kumar@kelltontech.com">
     <img src="https://img.shields.io/badge/Papu-Kumar-386938188?style=flat&logo=gmail">
   </a>
+  <a href="https://instagram.com/papauruth">
+    <img src="https://img.shields.io/badge/papuruth-30302f?style=flat&logo=instagram">
+  </a>
 </p>
 
-Cheers!
+**Languages and Tools:**
 <p align="center">
 <img src=https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-plain.svg alt=mongodb width="40" height="40"/>
 <img src=https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg alt=expressjs width="40" height="40"/>
