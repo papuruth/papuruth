@@ -10,7 +10,7 @@
  - 🤔 I’m looking for help with **Django**
  - 💬 Ask me about anything.
  - 👨‍💻Let's Learn and grow<br />
- - ⚡ Fun fact: I love :<br/>
+ - ⚡ Fun fact: I love cooking.<br/>
  - 📫 **Connect with me here**:<br />
  <p align="center">
   <a href="https://www.linkedin.com/in/papuruth/">
