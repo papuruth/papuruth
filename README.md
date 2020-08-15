@@ -21,7 +21,7 @@
   </a>&nbsp;
  <a href="mailto:papu.kumar@kelltontech.com">
     <img src="https://img.shields.io/badge/Papu-Kumar-386938188?style=flat&logo=gmail">
-  </a>
+  </a>&nbsp;
   <a href="https://instagram.com/papauruth">
     <img src="https://img.shields.io/badge/papuruth-30302f?style=flat&logo=instagram">
   </a>
