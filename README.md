@@ -29,16 +29,16 @@
 
 **Languages and Tools:**
 <p align="center">
-<img src=https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-plain.svg alt=mongodb width="40" height="40"/>
-<img src=https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg alt=expressjs width="40" height="40"/>
- <img src=https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg alt=react width="40" height="40"/>
- <img src=https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg alt=nodejs width="40" height="40"/>
-  <img src=https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg alt=redux width="40" height="40"/>
-  <img src=https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg alt=angular width="40" height="40"/>
- <img src=https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=css3 width="40" height="40"/>
- <img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=html5 width="40" height="40"/>
- <img src=https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg alt=typescript width="40" height="40"/>
- <img src=https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="40" height="40"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg alt=mongodb width="40" height="40"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/mastert/icons/express/express-original.svg alt=expressjs width="40" height="40"/>
+ <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg alt=react width="40" height="40"/>
+ <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg alt=nodejs width="40" height="40"/>
+  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg alt=redux width="40" height="40"/>
+  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg alt=angular width="40" height="40"/>
+ <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg alt=css3 width="40" height="40"/>
+ <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg alt=html5 width="40" height="40"/>
+ <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg alt=typescript width="40" height="40"/>
+ <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt=javascript width="40" height="40"/>
  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg alt=Bootstrap width="40" height="40"/>
  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg alt=mysql width="50" height="50"/> 
  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg alt=vs-code width="50" height="50"/>
