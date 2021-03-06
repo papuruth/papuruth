@@ -29,20 +29,20 @@
 
 **Languages and Tools:**
 <p align="center">
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg alt=mongodb width="40" height="40"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg alt=expressjs width="40" height="40"/>
- <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg alt=react width="40" height="40"/>
- <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg alt=nodejs width="40" height="40"/>
-  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg alt=redux width="40" height="40"/>
-  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg alt=angular width="40" height="40"/>
- <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg alt=css3 width="40" height="40"/>
- <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg alt=html5 width="40" height="40"/>
- <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg alt=typescript width="40" height="40"/>
- <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt=javascript width="40" height="40"/>
- <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg alt=Bootstrap width="40" height="40"/>
- <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg alt=mysql width="50" height="50"/> 
- <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg alt=vs-code width="50" height="50"/>
- <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg alt=atom width="50" height="50"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg alt=mongodb width="40" height="40" title="MongoDB"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg alt=expressjs width="40" height="40" title="ExpressJS"/>
+ <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg alt=react width="40" height="40" title="ReactJS"/>
+ <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg alt=nodejs width="40" height="40" title="NodeJS"/>
+  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg alt=redux width="40" height="40" title="Redux"/>
+  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg alt=angular width="40" height="40" title="Angular"/>
+ <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg alt=css3 width="40" height="40" title="CSS3"/>
+ <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg alt=html5 width="40" height="40" title="HTML5"/>
+ <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg alt=typescript width="40" height="40" title="Typescript"/>
+ <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt=javascript width="40" height="40" title="Javascript"/>
+ <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg alt=Bootstrap width="40" height="40" title="Bootstrap"/>
+ <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg alt=mysql width="40" height="40" title="MySQL"/> 
+ <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg alt=vs-code width="40" height="40" title="VS Code"/>
+ <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg alt=atom width="40" height="40" title="Atom"/>
  </p>
 <br/>
 
