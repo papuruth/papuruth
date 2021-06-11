@@ -2,7 +2,7 @@
 ### Hi there, I'm Papu Kumar - aka ReX 👋  
 #### I'm a Fulltime React Dev
 <img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150"> 
-“Everything is just an illusion, but illusions are beautiful.” – **ReX** 
+“Everything is just an illusion, but illusions are beautiful.” – ReX 
 <br />
 
  - 🔭 I’m currently working on a React Project .
