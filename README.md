@@ -29,12 +29,6 @@
 </p>
 
 **Languages and Tools:**
-<style>
- .express {
-    filter: invert(1);
-    background: transparent;
- }
-</style>
 <p align="center">
  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg alt=mongodb width="40" height="40" title="MongoDB"/>
  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg alt=express width="40" height="40" title="Express" class="express" />
@@ -58,3 +52,14 @@
 [![Papu Kumar's github stats](https://github-readme-stats.vercel.app/api?username=papuruth&count_private=true&show_icons=true&icon_color=74b510&theme=radical)](https://github.com/papuruth/github-readme-stats)
 
 [![Papu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papuruth&theme=dark)](https://github.com/papuruth/github-readme-stats)
+
+<html>
+ <head>
+  <style>
+    .express {
+      filter: invert(1);
+      background: transparent;
+    }
+  </style>
+ </head>
+</html>
