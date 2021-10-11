@@ -31,7 +31,7 @@
 **Languages and Tools:**
 <p align="center">
  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg alt=mongodb width="40" height="40" title="MongoDB"/>
- <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg alt=express width="40" height="40" title="Express" class="express" />
+ <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg alt=express width="40" height="40" title="Express" />
  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg alt=react width="40" height="40" title="ReactJS"/>
  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg alt=nodejs width="40" height="40" title="NodeJS"/>
  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg alt=redux width="40" height="40" title="Redux"/>
@@ -52,14 +52,3 @@
 [![Papu Kumar's github stats](https://github-readme-stats.vercel.app/api?username=papuruth&count_private=true&show_icons=true&icon_color=74b510&theme=radical)](https://github.com/papuruth/github-readme-stats)
 
 [![Papu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papuruth&theme=dark)](https://github.com/papuruth/github-readme-stats)
-
-<html>
- <head>
-  <style>
-    .express {
-      filter: invert(1);
-      background: transparent;
-    }
-  </style>
- </head>
-</html>
