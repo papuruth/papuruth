@@ -14,17 +14,17 @@
  - ⚡ Fun fact: I love cooking.<br/>
  - 📫 **Connect with me here**:<br />
  <p align="center">
+  <a href="https://p-folio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-30302f?style=flat&logo=Internet Explorer">
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/papuruth/">
-    <img src="https://img.shields.io/badge/Papu-Kumar-386938188?style=flat&logo=linkedin">
+    <img src="https://img.shields.io/badge/Linkedin-30302f?style=flat&logo=linkedin">
   </a> &nbsp; 
-  <a href="https://twitter.com/papuruth">
-    <img src="https://img.shields.io/badge/@Papuruth-30302f?style=flat&logo=twitter">
+ <a href="mailto:papuruth@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-30302f?style=flat&logo=gmail">
   </a>&nbsp;
- <a href="mailto:papu.kumar@kelltontech.com">
-    <img src="https://img.shields.io/badge/Papu-Kumar-386938188?style=flat&logo=gmail">
-  </a>&nbsp;
-  <a href="https://instagram.com/papauruth">
-    <img src="https://img.shields.io/badge/papuruth-30302f?style=flat&logo=instagram">
+  <a href="https://instagram.com/papuruth">
+    <img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram">
   </a>
 </p>
 
