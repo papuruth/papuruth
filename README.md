@@ -14,16 +14,16 @@
  - ⚡ Fun fact: I love cooking.<br/>
  - 📫 **Connect with me here**:<br />
  <p align="center">
-  <a href="https://p-folio.netlify.app">
+  <a href="https://p-folio.netlify.app" target="_blank" rel="noreferrer noopener">
     <img src="https://img.shields.io/badge/Portfolio-30302f?style=flat&logo=Internet Explorer">
   </a>&nbsp;
-  <a href="https://www.linkedin.com/in/papuruth/">
+  <a href="https://www.linkedin.com/in/papuruth/" target="_blank" rel="noreferrer noopener">
     <img src="https://img.shields.io/badge/Linkedin-30302f?style=flat&logo=linkedin">
   </a> &nbsp; 
- <a href="mailto:papuruth@gmail.com">
+ <a href="mailto:papuruth@gmail.com" target="_blank" rel="noreferrer noopener">
     <img src="https://img.shields.io/badge/Gmail-30302f?style=flat&logo=gmail">
   </a>&nbsp;
-  <a href="https://instagram.com/papuruth">
+  <a href="https://instagram.com/papuruth" target="_blank" rel="noreferrer noopener">
     <img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram">
   </a>
 </p>
