@@ -1,54 +1,72 @@
+# Hey, I'm Papu Kumar (ReX) 👋
 
+### Full-Stack Developer • React & Next.js Enthusiast • Building Intelligent Systems
 
-### Hi there, I'm Papu Kumar - aka ReX 👋  
-#### I'm a Fulltime React Dev
-<img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150"> 
-“Everything is just an illusion, but illusions are beautiful.” – ReX 
-<br />
+<img align="right" src="https://i.imgur.com/w4pKOQi.jpg" width="160" />
 
- - 🔭 I’m currently working on a React Project .
- - 👯 I’m looking to collaborate on open source projects.
- - 🤔 I’m looking for help with **Django**
- - 💬 Ask me about anything.
- - 👨‍💻Let's Learn and grow<br />
- - ⚡ Fun fact: I love cooking.<br/>
- - 📫 **Connect with me here**:<br />
- <p align="center">
-  <a href="https://p-folio.netlify.app" target="_blank" rel="noreferrer noopener">
-    <img src="https://img.shields.io/badge/Portfolio-30302f?style=flat&logo=Internet Explorer">
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/papuruth/" target="_blank" rel="noreferrer noopener">
-    <img src="https://img.shields.io/badge/Linkedin-30302f?style=flat&logo=linkedin">
-  </a> &nbsp; 
- <a href="mailto:papuruth@gmail.com" target="_blank" rel="noreferrer noopener">
-    <img src="https://img.shields.io/badge/Gmail-30302f?style=flat&logo=gmail">
-  </a>&nbsp;
-  <a href="https://instagram.com/papuruth" target="_blank" rel="noreferrer noopener">
-    <img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram">
+I build modern web applications, developer tools, and experimental AI-powered projects.  
+Currently focused on scalable frontend architecture, performance optimization, and intelligent systems.
+
+> “Everything is just an illusion, but illusions are beautiful.”
+
+---
+
+## 🚀 About Me
+
+- ⚛️ Building applications with React, Next.js, Node.js & TypeScript
+- 🤖 Working on AI and robotics projects like **NIQUI**
+- 🌱 Exploring backend systems with Django and scalable architectures
+- 🤝 Open to collaborating on meaningful open-source projects
+- 🧠 Interested in UI/UX, performance, automation, and developer tools
+- 🍳 Fun fact: I enjoy cooking when I’m not coding
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://p-folio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/papuruth/">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:papuruth@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/papuruth">
+    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
-**Languages and Tools:**
-<p align="center">
- <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg alt=mongodb width="40" height="40" title="MongoDB"/>
- <img src=https://github.com/papuruth/papuruth/blob/master/expres.svg alt=express width="40" height="40" title="Express" />
- <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg alt=react width="40" height="40" title="ReactJS"/>
- <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg alt=nodejs width="40" height="40" title="NodeJS"/>
- <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg alt=redux width="40" height="40" title="Redux"/>
- <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg alt=angular width="40" height="40" title="Angular"/>
- <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg alt=css3 width="40" height="40" title="CSS3"/>
- <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg alt=html5 width="40" height="40" title="HTML5"/>
- <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg alt=typescript width="40" height="40" title="Typescript"/>
- <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt=javascript width="40" height="40" title="Javascript"/>
- <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg alt=Bootstrap width="40" height="40" title="Bootstrap"/>
- <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg alt=mysql width="40" height="40" title="MySQL"/> 
- <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg alt=vs-code width="40" height="40" title="VS Code"/>
- <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg alt=atom width="40" height="40" title="Atom"/>
-</p>
-<br/>
+---
 
-**Checkout my Github Stats**
+## 🛠 Tech Stack
 
-[![Papu Kumar's github stats](https://github-readme-stats.vercel.app/api?username=papuruth&count_private=true&show_icons=true&icon_color=74b510&theme=radical)](https://github.com/papuruth/github-readme-stats)
+### Frontend
+![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript)
+![Redux](https://img.shields.io/badge/-Redux-000?style=flat-square&logo=redux)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=flat-square&logo=tailwind-css)
 
-[![Papu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papuruth&theme=dark)](https://github.com/papuruth/github-readme-stats)
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-000?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat-square&logo=mysql)
+
+### Tools
+![Git](https://img.shields.io/badge/-Git-000?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VSCode-000?style=flat-square&logo=visual-studio-code)
+![Linux](https://img.shields.io/badge/-Linux-000?style=flat-square&logo=linux)
+
+---
+
+## 📌 Featured Projects
+
+- 🚀 **DevDeck** — A modern developer platform focused on productivity, discovery, and developer experience. Built with Next.js, TypeScript, and modern web technologies.
+- 🤖 NIQUI — Humanoid AI Robot System
+- 🌐 Modern portfolio with performance-focused architecture
+- 🛠 Experimental AI tools & full-stack applications
+- ⚡ Frontend systems optimized for speed, SEO, and scalability
