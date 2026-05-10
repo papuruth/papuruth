@@ -25,7 +25,7 @@ Currently focused on scalable frontend architecture, performance optimization, a
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://p-folio.netlify.app">
+  <a href="https://papulabs.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/papuruth/">
