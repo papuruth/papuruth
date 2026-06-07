@@ -15,7 +15,6 @@ Currently focused on scalable frontend architecture, performance optimization, a
 
 - ⚛️ Building applications with React, Next.js, Node.js & TypeScript
 - 🤖 Working on AI and robotics projects like **NIQUI**
-- 🌱 Exploring backend systems with Django and scalable architectures
 - 🤝 Open to collaborating on meaningful open-source projects
 - 🧠 Interested in UI/UX, performance, automation, and developer tools
 - 🍳 Fun fact: I enjoy cooking when I’m not coding
